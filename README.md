@@ -1,4 +1,4 @@
-Gezi Yolu Uygulaması
+<img width="347" alt="anasayfa1" src="https://github.com/user-attachments/assets/996f0124-c984-4857-96b2-b746bc588cfa" />Gezi Yolu Uygulaması
 Gezi Yolu, kullanıcıların şehirleri keşfetmelerini, favori şehirlerini eklemelerini ve kişiselleştirilmiş seyahat deneyimleri yaşamalarını sağlayan modern bir mobil platformdur. Uygulama, kullanıcı dostu arayüzü ve dinamik özellikleriyle seyahat severlere çeşitli gezilecek yerler, aktiviteler ve mekanlar hakkında bilgi sunar.
 
 Öne Çıkan Özellikler:

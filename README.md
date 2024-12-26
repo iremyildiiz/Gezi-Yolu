@@ -17,7 +17,7 @@ Gezi Yolu uygulaması, seyahat etmeyi seven herkes için ideal bir rehberdir. Uy
 <img width="350" alt="favoriekranı" src="https://github.com/user-attachments/assets/d8d5bd2f-ed38-4a32-b69c-55804c67577c" />
 
 <img width="353" alt="şehirgeziekranı" src="https://github.com/user-attachments/assets/486bf6dc-9197-48e7-9ef1-cb55f7765c26" />
-<img width="350" alt="profilekranı" src="https://github.com/user-attachments/assets/33a8b604-6647-48f6-aac7-7660de0a185a" />
+<img width="348" alt="profilekranı" src="https://github.com/user-attachments/assets/33a8b604-6647-48f6-aac7-7660de0a185a" />
 <img width="350" alt="girişekranı" src="https://github.com/user-attachments/assets/f23b9005-cb27-49bc-9c97-4a37df363bb4" />
 <img width="349" alt="kayıtolekranı" src="https://github.com/user-attachments/assets/28ad0a8c-5dbb-4168-b3c4-f3d77c905010" />
 <img width="359" alt="şifremiunuttum" src="https://github.com/user-attachments/assets/ad047d9b-4a86-41a0-8f90-aecdc36ac18b" />

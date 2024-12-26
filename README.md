@@ -11,6 +11,8 @@ Seyahat Rehberi: Şehirdeki en popüler gezilecek yerler, restoranlar ve aktivit
 Gezi Yolu uygulaması, seyahat etmeyi seven herkes için ideal bir rehberdir. Uygulama sayesinde, keşfetmek istediğiniz yerler hakkında detaylı bilgiye ulaşabilir, seyahatinizi planlamak için gerekli tüm bilgilere kolayca erişebilirsiniz.
 
 <img width="347" alt="anasayfa1" src="https://github.com/user-attachments/assets/996f0124-c984-4857-96b2-b746bc588cfa" />
+<img width="352" alt="anasayfa2" src="https://github.com/user-attachments/assets/6782a5f9-967f-44df-8b21-0f45402f9a69" />
+
 <img width="353" alt="şehirleryeniekran" src="https://github.com/user-attachments/assets/915db6d6-6710-47d9-adee-322d45953e05" />
 <img width="352" alt="favoriekranı" src="https://github.com/user-attachments/assets/d8d5bd2f-ed38-4a32-b69c-55804c67577c" />
 

@@ -21,3 +21,5 @@ Gezi Yolu uygulaması, seyahat etmeyi seven herkes için ideal bir rehberdir. Uy
 <img width="359" alt="şifremiunuttum" src="https://github.com/user-attachments/assets/ad047d9b-4a86-41a0-8f90-aecdc36ac18b" />
 
 <img width="352" alt="parabirimi" src="https://github.com/user-attachments/assets/58cf61ae-afdc-46ef-ad95-1555acf3c80e" />
+<img width="346" alt="Benim gözümden sayfası" src="https://github.com/user-attachments/assets/29e9b0d6-95ab-45ed-be5b-c96a84e2af2c" />
+

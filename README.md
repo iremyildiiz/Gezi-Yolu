@@ -24,4 +24,5 @@ Gezi Yolu uygulaması, seyahat etmeyi seven herkes için ideal bir rehberdir. Uy
 
 <img width="352" alt="parabirimi" src="https://github.com/user-attachments/assets/58cf61ae-afdc-46ef-ad95-1555acf3c80e" />
 <img width="346" alt="Benim gözümden sayfası" src="https://github.com/user-attachments/assets/29e9b0d6-95ab-45ed-be5b-c96a84e2af2c" />
+<img width="324" alt="Ekran Resmi 2024-11-16 22 09 20" src="https://github.com/user-attachments/assets/f0ea60b2-322a-4e03-b246-8e009b86c556" />
 

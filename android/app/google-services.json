@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "127779678299",
+    "project_id": "geziyolu-903d1",
+    "storage_bucket": "geziyolu-903d1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:127779678299:android:ee60add53842f2f8bff77e",
+        "android_client_info": {
+          "package_name": "com.geziyolu"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBchC_Z-W_ReGS3w69mm3QbOWdSRX3C6lk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

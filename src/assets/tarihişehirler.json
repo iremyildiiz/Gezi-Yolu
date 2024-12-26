@@ -1,0 +1,28 @@
+[
+    {
+      "id": 1,
+      "name": "Efes",
+      "imageUrl": "https://images.pexels.com/photos/28000979/pexels-photo-28000979/free-photo-of-efes.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    },
+    {
+      "id": 2,
+      "name": "Kapadokya",
+      "imageUrl": "https://images.pexels.com/photos/21758774/pexels-photo-21758774/free-photo-of-doga-ucan-kent-simgesi-gorulecek-yer.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    },
+    {
+      "id": 3,
+      "name": "Troy",
+      "imageUrl": "https://images.pexels.com/photos/2855824/pexels-photo-2855824.jpeg"
+    },
+    {
+      "id": 4,
+      "name": "Safranbolu",
+      "imageUrl": "https://images.pexels.com/photos/2619125/pexels-photo-2619125.jpeg"
+    },
+    {
+      "id": 5,
+      "name": "Bodrum Kalesi",
+      "imageUrl": "https://images.pexels.com/photos/18961669/pexels-photo-18961669/free-photo-of-deniz-tas-tarih-metin-alani.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    }
+  ]
+  

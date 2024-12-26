@@ -1,0 +1,52 @@
+[
+  {
+    "id": "1",
+    "title": "Yerel Para Birimi Kullanımı",
+    "description": "Hedef ülkenin yerel para birimini kullanmak, döviz kurlarından daha iyi faydalanmanızı sağlar.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwnLKBXVrjE6FiMsVdy2_0_ddAu9PD6wQ1FVyC9iWpzU9sEbSsZEFz_d2MYS8jfGFoi_I&usqp=CAU",
+    "details": [
+      "Hedef ülkeye varmadan önce yerel para biriminde biraz nakit alın.",
+      "Kredi kartı kullanımı yaygınsa, döviz kurları üzerinden işlem yapan kartlar tercih edin.",
+      "Döviz bozdururken komisyon oranlarını karşılaştırın."
+    ]
+  },
+  {
+    "id": "2",
+    "title": "Erken Rezervasyon Yapın",
+    "description": "Popüler destinasyonlar için erken rezervasyon yaparak daha uygun fiyatlarla konaklama sağlayabilirsiniz.",
+    "image": "https://media.istockphoto.com/id/912972174/tr/vekt%C3%B6r/online-otel-rezervasyon.jpg?s=612x612&w=is&k=20&c=7bwrL2sxbrH5c-h2r66-wagTzb1Nnmm0ajHYxp3XkZI=",
+    "details": [
+      "Popüler otellerin erken rezervasyon fırsatlarını kontrol edin.",
+      "Uygun uçak bileti fiyatları için seyahat tarihinden en az 3 ay önce plan yapın.",
+      "Erken rezervasyon avantajları ile tatil bütçenizi daha verimli kullanın.",
+      "Önerilen erken rezervasyon siteleri:",
+      "1. Booking.com: https://www.booking.com",
+      "2. Expedia: https://www.expedia.com",
+      "3. Airbnb: https://www.airbnb.com",
+      "4. Trivago: https://www.trivago.com",
+      "5. Hotels.com: https://www.hotels.com"
+    ]
+  },
+  {
+    "id": "3",
+    "title": "Yerel Yemekleri Deneyin",
+    "description": "Yerel restoranlarda yemek yemek, seyahatinizin en keyifli anılarından birine dönüşebilir.",
+    "image": "https://www.etstur.com/letsgo/wp-content/uploads/2021/09/tepe.jpg",
+    "details": [
+      "Popüler yerel yemekler için önceden küçük bir araştırma yapın.",
+      "Pazar yerlerinde taze ve otantik lezzetleri keşfedin.",
+      "Yerel halkın önerdiği restoranları ziyaret edin."
+    ]
+  },
+  {
+    "id": "4",
+    "title": "Seyahat Sigortası Yaptırın",
+    "description": "Seyahat sigortası, beklenmedik durumlarda sizi güvence altına alır ve olası problemleri önler.",
+    "image": "https://www.kuveytturk.com.tr/medium/SitemapNodePage-FirstImage-19777-2x.vsf",
+    "details": [
+      "Tıbbi masrafları karşılayan bir seyahat sigortası tercih edin.",
+      "Bagaj kaybı ve uçuş iptali durumlarına karşı ek teminatları kontrol edin.",
+      "Seyahat sigortası kapsamını iyice okuyup anlayın."
+    ]
+  }
+]

@@ -1,0 +1,28 @@
+[
+    {
+      "id": 1,
+      "name": "İstanbul",
+      "imageUrl": "https://images.pexels.com/photos/29414672/pexels-photo-29414672.jpeg"
+    },
+    {
+      "id": 2,
+      "name": "Ankara",
+      "imageUrl": "https://images.pexels.com/photos/29399665/pexels-photo-29399665/free-photo-of-anitkabir-turbesi-onden-gorunum.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    },
+    {
+      "id": 3,
+      "name": "İzmir",
+      "imageUrl": "https://images.pexels.com/photos/2656502/pexels-photo-2656502.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    },
+    {
+      "id": 4,
+      "name": "Antalya",
+      "imageUrl": "https://images.pexels.com/photos/2767815/pexels-photo-2767815.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    },
+    {
+      "id": 5,
+      "name": "Bursa",
+      "imageUrl": "https://images.pexels.com/photos/2104053/pexels-photo-2104053.jpeg"
+    }
+  ]
+  

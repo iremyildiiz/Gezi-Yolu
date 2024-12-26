@@ -1,0 +1,63 @@
+[
+    {
+      "id": 1,
+      "name": "Kebap",
+      "description": "Türk mutfağının en ünlü yemeklerinden biri olan kebap, özellikle et severler için mükemmel bir seçenektir. Genellikle şişe takılan et, mangalda pişirilir.",
+      "image": "https://example.com/kebap.jpg"
+    },
+    {
+      "id": 2,
+      "name": "İskender",
+      "description": "Bursa'ya özgü olan İskender kebap, döner etinin tereyağı, yoğurt ve domates sosuyla servis edilmesiyle ünlüdür.",
+      "image": "https://example.com/iskender.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Lahmacun",
+      "description": "Türk mutfağının geleneksel bir yemeği olan lahmacun, ince hamurun üzerine kıymalı harç konarak yapılan nefis bir yemektir.",
+      "image": "https://example.com/lahmacun.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Mantı",
+      "description": "Türk mutfağının vazgeçilmez yemeklerinden biri olan mantı, haşlanmış hamurun içine kıymalı iç harç konarak yapılan minik köftelerdir. Yoğurt ve tereyağı ile servis edilir.",
+      "image": "https://example.com/manti.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Börek",
+      "description": "Börek, ince yufka katmanları arasına peynir, kıyma veya ıspanak gibi malzemelerle yapılan geleneksel bir yemektir.",
+      "image": "https://example.com/borek.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Köfte",
+      "description": "Türk mutfağının vazgeçilmez lezzetlerinden olan köfte, baharatlı kıyma karışımından yapılan ve kızartılan küçük et toplarıdır.",
+      "image": "https://example.com/kofte.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Çörek",
+      "description": "Çörek, özellikle kahvaltılarda tercih edilen, hamur işlerinden biri olup bazen iç harçlarla, bazen sade olarak yapılır.",
+      "image": "https://example.com/corek.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Simit",
+      "description": "Simit, Türk mutfağının sokak lezzetlerinden biri olup, susamla kaplanmış yuvarlak bir ekmektir. Genellikle kahvaltılarda yenir.",
+      "image": "https://example.com/simit.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Kısır",
+      "description": "Kısır, ince bulgur, domates, salatalık, nar ekşisi ve zeytinyağından yapılan hafif ve sağlıklı bir salatadır.",
+      "image": "https://example.com/kisir.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Hünkar Beğendi",
+      "description": "Hünkar Beğendi, kuzu eti ve beşamel soslu patlıcan beğendi ile yapılan klasik bir Osmanlı yemeğidir.",
+      "image": "https://example.com/hunkar-begendi.jpg"
+    }
+  ]
+  

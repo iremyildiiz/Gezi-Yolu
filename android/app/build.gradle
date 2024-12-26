@@ -1,74 +1,77 @@
 apply plugin: "com.android.application"
 apply plugin: "org.jetbrains.kotlin.android"
 apply plugin: "com.facebook.react"
+apply plugin: 'com.google.gms.google-services'
+
+
 
 /**
- * This is the configuration block to customize your React Native Android app.
- * By default you don't need to apply any configuration, just uncomment the lines you need.
+ * Bu, React Native Android uygulamanızın yapılandırma bloğudur.
+ * Varsayılan olarak, herhangi bir yapılandırma uygulamanıza gerek yoktur,
+ * yalnızca ihtiyaç duyduğunuz satırları açın.
  */
 react {
-    /* Folders */
-    //   The root of your project, i.e. where "package.json" lives. Default is '../..'
+    /* Klasörler */
+    //  Projenizin kökü, yani "package.json" dosyasının bulunduğu yer. Varsayılan olarak '../..'
     // root = file("../../")
-    //   The folder where the react-native NPM package is. Default is ../../node_modules/react-native
+    //  React Native NPM paketinin bulunduğu klasör. Varsayılan olarak ../../node_modules/react-native
     // reactNativeDir = file("../../node_modules/react-native")
-    //   The folder where the react-native Codegen package is. Default is ../../node_modules/@react-native/codegen
+    //  React Native Codegen paketinin bulunduğu klasör. Varsayılan olarak ../../node_modules/@react-native/codegen
     // codegenDir = file("../../node_modules/@react-native/codegen")
-    //   The cli.js file which is the React Native CLI entrypoint. Default is ../../node_modules/react-native/cli.js
+    //  React Native CLI giriş noktası olan cli.js dosyası. Varsayılan olarak ../../node_modules/react-native/cli.js
     // cliFile = file("../../node_modules/react-native/cli.js")
 
-    /* Variants */
-    //   The list of variants to that are debuggable. For those we're going to
-    //   skip the bundling of the JS bundle and the assets. By default is just 'debug'.
-    //   If you add flavors like lite, prod, etc. you'll have to list your debuggableVariants.
+    /* Varyantlar */
+    //  Hata ayıklanabilir olan varyantların listesi. Bunlar için
+    //  JS paketleme ve varlıkların paketlenmesini atlayacağız. Varsayılan olarak yalnızca 'debug'.
     // debuggableVariants = ["liteDebug", "prodDebug"]
 
-    /* Bundling */
-    //   A list containing the node command and its flags. Default is just 'node'.
+    /* Paketleme */
+    //  Node komutu ve bayraklarını içeren bir liste. Varsayılan olarak sadece 'node'.
     // nodeExecutableAndArgs = ["node"]
     //
-    //   The command to run when bundling. By default is 'bundle'
+    //  Paketleme sırasında çalıştırılacak komut. Varsayılan olarak 'bundle'
     // bundleCommand = "ram-bundle"
     //
-    //   The path to the CLI configuration file. Default is empty.
+    //  Paketleme yapılandırma dosyasının yolu. Varsayılan boş.
     // bundleConfig = file(../rn-cli.config.js)
     //
-    //   The name of the generated asset file containing your JS bundle
+    //  Oluşturulan varlık dosyasının adı, JS paketini içeren
     // bundleAssetName = "MyApplication.android.bundle"
     //
-    //   The entry file for bundle generation. Default is 'index.android.js' or 'index.js'
+    //  Paketleme için giriş dosyası. Varsayılan olarak 'index.android.js' veya 'index.js'
     // entryFile = file("../js/MyApplication.android.js")
     //
-    //   A list of extra flags to pass to the 'bundle' commands.
-    //   See https://github.com/react-native-community/cli/blob/main/docs/commands.md#bundle
+    //  'bundle' komutlarına ekstra bayraklar geçmek için bir liste.
+    //  Daha fazla bilgi için: https://github.com/react-native-community/cli/blob/main/docs/commands.md#bundle
     // extraPackagerArgs = []
 
-    /* Hermes Commands */
-    //   The hermes compiler command to run. By default it is 'hermesc'
+    /* Hermes Komutları */
+    //  Hermes derleyici komutunu çalıştırmak için. Varsayılan 'hermesc'
     // hermesCommand = "$rootDir/my-custom-hermesc/bin/hermesc"
     //
-    //   The list of flags to pass to the Hermes compiler. By default is "-O", "-output-source-map"
+    //  Hermes derleyicisine geçirilecek bayraklar listesi. Varsayılan "-O", "-output-source-map"
     // hermesFlags = ["-O", "-output-source-map"]
 
-    /* Autolinking */
+    /* Otomatik Bağlama */
     autolinkLibrariesWithApp()
 }
 
 /**
- * Set this to true to Run Proguard on Release builds to minify the Java bytecode.
+ * Bu, yayın yapılarını küçük kodları küçültmek için Proguard'ı çalıştırmak için true olarak ayarlayın.
  */
 def enableProguardInReleaseBuilds = false
 
 /**
- * The preferred build flavor of JavaScriptCore (JSC)
+ * JavaScriptCore (JSC) için tercih edilen yapı lezzeti
  *
- * For example, to use the international variant, you can use:
+ * Örneğin, uluslararası varyantı kullanmak için:
  * `def jscFlavor = 'org.webkit:android-jsc-intl:+'`
  *
- * The international variant includes ICU i18n library and necessary data
- * allowing to use e.g. `Date.toLocaleString` and `String.localeCompare` that
- * give correct results when using with locales other than en-US. Note that
- * this variant is about 6MiB larger per architecture than default.
+ * Uluslararası varyant, ICU i18n kitaplığı ve gerekli verileri içerir
+ * örneğin `Date.toLocaleString` ve `String.localeCompare` ile kullanıldığında
+ * en-US dışında diğer yerel ayarlar için doğru sonuçlar verir. Not edin ki
+ * bu varyant, varsayılan olandan her mimari için yaklaşık 6MiB daha büyük.
  */
 def jscFlavor = 'org.webkit:android-jsc:+'
 
@@ -98,18 +101,21 @@ android {
             signingConfig signingConfigs.debug
         }
         release {
-            // Caution! In production, you need to generate your own keystore file.
-            // see https://reactnative.dev/docs/signed-apk-android.
+            // Dikkat! Üretimde, kendi anahtar dosyanızı oluşturmanız gerekir.
+            // bkz. https://reactnative.dev/docs/signed-apk-android.
             signingConfig signingConfigs.debug
             minifyEnabled enableProguardInReleaseBuilds
             proguardFiles getDefaultProguardFile("proguard-android.txt"), "proguard-rules.pro"
         }
     }
+      apply from: "../../node_modules/react-native-vector-icons/fonts.gradle"
 }
 
 dependencies {
-    // The version of react-native is set by the React Native Gradle Plugin
+    // React Native versiyonu, React Native Gradle Eklentisi tarafından ayarlanır
     implementation("com.facebook.react:react-android")
+    // Diğer bağımlılıklar
+
 
     if (hermesEnabled.toBoolean()) {
         implementation("com.facebook.react:hermes-android")
